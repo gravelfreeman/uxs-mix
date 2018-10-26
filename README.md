@@ -1,3 +1,5 @@
+![Emugla Logo](https://i.postimg.cc/dtTN6msD/github.png)
+
 Emulga custom mix image profiles to use with Universal XML Scraper. These mix images are the one we use with our official themes but will work great with the original Recalbox theme and other themes. The screenshots below have been taken using the Emulga Box theme available on our Github.
 
 ![NES](https://s14.postimg.cc/eub9tupi9/gl-nes.png)
